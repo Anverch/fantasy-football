@@ -16,20 +16,22 @@ class App extends Component {
     });
   };
 
+  backdropClickHandler = () => {
+    this.setState({sideMenuOpen: false})
+  }
+
   render() {
-    let sideMenu;
     let backdrop;
   
     if (this.state.sideMenuOpen ){
-      sideMenu = <SideMenu />
-      backdrop = <Backdrop />
+      backdrop = <Backdrop click={this.backdropClickHandler} />
     }
 
     return (
       <Router>
         <div style={{ height: "100%"}}>
           <Navigation menuClickHandler={this.navigationClickHandler} />
-          {sideMenu}
+          <SideMenu show={this.state.sideMenuOpen}/>
           {backdrop}
           <main style={{marginTop: "64px"}}>
           <p>this is the page!</p>

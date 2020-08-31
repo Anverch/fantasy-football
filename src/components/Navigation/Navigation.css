@@ -42,3 +42,19 @@
 .nav_tool_items li {
     padding: 0 0.5rem;
 }
+
+@media (max-width: 768px) {
+    .nav_tool_items {
+        display: none;
+    }
+}
+
+@media (min-width:769px) {
+    .navigation_toggle_button {
+        display: none;
+    }
+    
+    .nav_logo {
+        margin-left: 0;
+    }
+}

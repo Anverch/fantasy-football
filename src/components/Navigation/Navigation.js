@@ -6,7 +6,7 @@ import "./Navigation.css"
 const navigation = props => (
     <header className="navigation">
         <nav className="navigation_tool">
-            <div>
+            <div className="navigation_toggle_button">
                 <SideMenuButton click={props.menuClickHandler} />
             </div>
             <div className="nav_logo">Saiyan League</div>
