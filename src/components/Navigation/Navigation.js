@@ -13,7 +13,7 @@ const navigation = props => (
             <div className="spacer"></div>
             <div className="nav_tool_items">
                 <ul>
-                    <li><a href="/">Home</a></li>
+                    <li><a href="http://www.google.com">Home</a></li>
                     <li><a href="/">All-Time</a></li>
                     <li><a href="/">Records</a></li>
                 </ul>

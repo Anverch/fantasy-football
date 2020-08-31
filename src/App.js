@@ -3,6 +3,8 @@ import { BrowserRouter as Router } from "react-router-dom";
 import Navigation from "./components/Navigation/Navigation.js"
 import SideMenu from './components/SideMenu/SideMenu';
 import Backdrop from './components/Backdrop/Backdrop';
+import Footer from './components/Footer/Footer.js';
+import "./App.css"
 
 class App extends Component {
 
@@ -33,10 +35,10 @@ class App extends Component {
           <Navigation menuClickHandler={this.navigationClickHandler} />
           <SideMenu show={this.state.sideMenuOpen}/>
           {backdrop}
-          <main style={{marginTop: "64px"}}>
+          <main className="main" style={{marginTop: "56px" }}>
           <p>this is the page!</p>
           </main>
-  
+          <Footer />
         </div>
       </Router>
     );
