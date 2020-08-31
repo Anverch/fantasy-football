@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/fantasy-football/static/css/main.5f361e03.chunk.css",
-    "main.js": "/fantasy-football/static/js/main.bb9b2c30.chunk.js",
-    "main.js.map": "/fantasy-football/static/js/main.bb9b2c30.chunk.js.map",
+    "main.css": "/fantasy-football/static/css/main.14aa2b90.chunk.css",
+    "main.js": "/fantasy-football/static/js/main.26b965f5.chunk.js",
+    "main.js.map": "/fantasy-football/static/js/main.26b965f5.chunk.js.map",
     "runtime-main.js": "/fantasy-football/static/js/runtime-main.410aae55.js",
     "runtime-main.js.map": "/fantasy-football/static/js/runtime-main.410aae55.js.map",
-    "static/js/2.f7e3edb4.chunk.js": "/fantasy-football/static/js/2.f7e3edb4.chunk.js",
-    "static/js/2.f7e3edb4.chunk.js.map": "/fantasy-football/static/js/2.f7e3edb4.chunk.js.map",
+    "static/css/2.11829350.chunk.css": "/fantasy-football/static/css/2.11829350.chunk.css",
+    "static/js/2.1c9e9196.chunk.js": "/fantasy-football/static/js/2.1c9e9196.chunk.js",
+    "static/js/2.1c9e9196.chunk.js.map": "/fantasy-football/static/js/2.1c9e9196.chunk.js.map",
     "index.html": "/fantasy-football/index.html",
-    "precache-manifest.0cf8febf2182e1198742ca2b266b63a8.js": "/fantasy-football/precache-manifest.0cf8febf2182e1198742ca2b266b63a8.js",
+    "precache-manifest.4eba66655d6f6daf2965d4831e62f1cb.js": "/fantasy-football/precache-manifest.4eba66655d6f6daf2965d4831e62f1cb.js",
     "service-worker.js": "/fantasy-football/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/fantasy-football/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f7e3edb4.chunk.js.LICENSE.txt": "/fantasy-football/static/js/2.f7e3edb4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/fantasy-football/static/media/logo.5d5d9eef.svg"
+    "static/css/2.11829350.chunk.css.map": "/fantasy-football/static/css/2.11829350.chunk.css.map",
+    "static/css/main.14aa2b90.chunk.css.map": "/fantasy-football/static/css/main.14aa2b90.chunk.css.map",
+    "static/js/2.1c9e9196.chunk.js.LICENSE.txt": "/fantasy-football/static/js/2.1c9e9196.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.410aae55.js",
-    "static/js/2.f7e3edb4.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bb9b2c30.chunk.js"
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.1c9e9196.chunk.js",
+    "static/css/main.14aa2b90.chunk.css",
+    "static/js/main.26b965f5.chunk.js"
   ]
 }
