@@ -22,7 +22,7 @@
     color: white;
     margin-left: 1rem;
     text-decoration: none;
-    font-size: 3rem;
+    font-size: 5vmin;
     font-family: "Brush Script MT";
     text-shadow: 3px 3px 3px black;
 }
@@ -56,5 +56,6 @@
     
     .nav_logo {
         margin-left: 0;
+        font-size: 3vmax;
     }
 }
