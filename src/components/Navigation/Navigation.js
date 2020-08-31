@@ -9,7 +9,7 @@ const navigation = props => (
             <div className="navigation_toggle_button">
                 <SideMenuButton click={props.menuClickHandler} />
             </div>
-            <div className="nav_logo">Saiyan League</div>
+            <div className="nav_logo">Saiyan&nbsp;League</div>
             <div className="spacer"></div>
             <div className="nav_tool_items">
                 <ul>
