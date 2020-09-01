@@ -1,3 +1,13 @@
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    background-color:#343a40;
+    margin: auto;
+    padding: 10px;
+}
+
+
 .main {
     position: relative;
     min-height: 100vh;
@@ -5,3 +15,4 @@
     margin-top: 0;
     background-color: lightgray;
 }
+

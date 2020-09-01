@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Anverch",
+        "user": "Alex Saiyan",
+        "image": "images/alex.png",
+        "winner": 2,
+        "record": 
+           {
+                "win": 10,
+                "lose": 4,
+                "Tie": 0
+            },
+        "playoff": 
+        {
+            "win": 3,
+            "lose": 7
+        }
+    },
+    {
+        "name": "Ganzaga",
+        "user": "Matt Houston",
+        "image": "images/matt.png",
+        "winner": 0,
+        "record": 
+           {
+                "win": 0,
+                "lose": 6,
+                "Tie": 1
+            },
+        "playoff": 
+        {
+            "win": 0,
+            "lose": 1
+        }
+    }
+]

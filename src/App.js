@@ -4,6 +4,7 @@ import Navigation from "./components/Navigation/Navigation.js"
 import SideMenu from './components/SideMenu/SideMenu';
 import Backdrop from './components/Backdrop/Backdrop';
 import Footer from './components/Footer/Footer.js';
+import Home from './pages/Home/Home.js';
 import "./App.css"
 
 class App extends Component {
@@ -36,7 +37,8 @@ class App extends Component {
           <SideMenu show={this.state.sideMenuOpen}/>
           {backdrop}
           <main className="main" style={{marginTop: "56px" }}>
-          <p>this is the page!</p>
+          <h1>2020 Standings</h1>
+          <Home />
           </main>
           <Footer />
         </div>
